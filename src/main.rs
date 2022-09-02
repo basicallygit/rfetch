@@ -163,7 +163,7 @@ color=76
         info.push(format!("{}: {}{}{}", style("USER").color256(208), user, style("@").cyan(), pcname));
         info.push(format!("{}: {}", style("OS").color256(135), consts::OS));
         info.push(format!("{}: {}M / {}M", style("MEM").color256(119), sys.used_memory()/1024, sys.total_memory()/1024));
-        info.push(format!("{}: {}minutes", style("UP").color256(111), sys.uptime()/60));
+        info.push(format!("{}: {} minutes", style("UP").color256(111), sys.uptime()/60));
         info.push(format!("{}: {}", style("CORES").color256(210), corecount));
         #[allow(unused_assignments)]
         let mut color = 0;
