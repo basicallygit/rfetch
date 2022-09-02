@@ -6,3 +6,6 @@
 
 
 ![alt text](https://i.imgur.com/6kvwSxa.png)
+
+
+#### ascii art from [neofetch](https://github.com/dylanaraps/neofetch)
