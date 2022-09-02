@@ -8,4 +8,7 @@
 ![alt text](https://i.imgur.com/6kvwSxa.png)
 
 
+![alt text](https://i.imgur.com/ZW8ZEoJ.png)
+
+
 #### ascii art from [neofetch](https://github.com/dylanaraps/neofetch)
