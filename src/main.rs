@@ -139,7 +139,7 @@ color=76
                     }
                 }
                 else if linecontents == format!("[{}]", distro) {
-                    print = true
+                    print = true;
                 }
             }
         }
